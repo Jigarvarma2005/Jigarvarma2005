@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Any Projects**
 
-- 📫 Reach Me In Telegram **Jigarvarma2005(https://telegram.me/Jigarvarma2005)**
+- 📫 Reach Me In Telegram **[Jigarvarma2005](https://telegram.me/Jigarvarma2005)**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jigarvarma2005&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="Jigarvarma2005" /></p>
