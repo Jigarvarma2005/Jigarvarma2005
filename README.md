@@ -19,4 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jigarvarma2005&show_icons=true&locale=en&count_private=true&theme=radical" alt="Jigarvarma2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jigarvarma2005&theme=radical&ring=DD0B0B" alt="Jigarvarma2005" /></p>
-<a href="https://github.com/AbirHasan2005"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jigarvarma2005&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Jigarvarma2005"><img alt="Abir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jigarvarma2005&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
