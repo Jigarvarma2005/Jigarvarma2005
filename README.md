@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jigarvarma2005" alt="Jigarvarma2005" /></a> </p>
 
-- 🔭 I’m currently working on [Universal Projects](https://t.me/UniversalBotsUpdate)
+- 🔭 I’m currently working on [Universal Projects](https://t.me/Universal_Projects)
 
 - 🌱 I’m currently learning **Python And C++**
 
