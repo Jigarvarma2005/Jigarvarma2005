@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jigar Varma</h1>
 <h3 align="center">A Tensed Noob programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jigarvarma2005&label=Profile%20views&color=0e75b6&style=flat" alt="Jigarvarma2005" /> </p> <p><iframe src="https://github.com/sponsors/Jigarvarma2005/button" title="Sponsor Jigarvarma2005" height="35" width="116" style="border: 0;"></iframe></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jigarvarma2005&label=Profile%20views&color=0e75b6&style=flat" alt="Jigarvarma2005" /> </p>
 
 <p align="left"> <a href="https://github.com/Jigarvarma2005"><img src="https://github-profile-trophy.vercel.app/?username=Jigarvarma2005" alt="Jigarvarma2005" /></a> </p>
 
