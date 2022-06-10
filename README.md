@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Universal Projects](https://t.me/Universal_Projects)
 
-- 🌱 I’m currently learning **Python And C++**
+- 🌱 I’m currently learning **Python, C++ and Bash**
 
 - 👯 I’m looking to collaborate on **Any Projects**
 
