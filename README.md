@@ -18,9 +18,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jigarvarma2005&show_icons=true&locale=en&count_private=true&theme=radical" alt="Jigarvarma2005" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jigarvarma2005&theme=radical&ring=DD0B0B" alt="Jigarvarma2005" /></p>
-<a href="https://github.com/Jigarvarma2005"><img alt="Jigar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jigarvarma2005&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Jigar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jigarvarma2005&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
 
-[![Check out Jigarvarma2005's profile on stardev.io](https://stardev.io/developers/Jigarvarma2005/badge/languages/locality.svg)](https://stardev.io/developers/Jigarvarma2005)
+[![Jigar's profile on stardev.io](https://stardev.io/developers/Jigarvarma2005/badge/languages/locality.svg)](https://stardev.io/developers/Jigarvarma2005)
 
 [![@jigarvarma2005's Holopin board](https://holopin.me/jigarvarma2005)](https://holopin.io/@jigarvarma2005)
