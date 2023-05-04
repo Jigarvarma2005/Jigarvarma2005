@@ -15,10 +15,10 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jigarvarma2005&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="Jigarvarma2005" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jigarvarma2005&show_icons=true&locale=en&count_private=true&theme=radical" alt="Jigarvarma2005" /></p>
 
-[![Jigar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jigarvarma2005&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+[![Jigar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jigarvarma2005&theme=aura-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
 
 [![Jigar's profile on stardev.io](https://stardev.io/developers/Jigarvarma2005/badge/languages/locality.svg)](https://stardev.io/developers/Jigarvarma2005)
 
