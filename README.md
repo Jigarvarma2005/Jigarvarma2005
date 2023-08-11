@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jigar Varma</h1>
-<h3 align="center">A Tensed Noob programmer from India</h3>
+<h3 align="center">A programmer/student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jigarvarma2005&label=Profile%20views&color=0e75b6&style=flat" alt="Jigarvarma2005" /> </p>
 
 <p align="left"> <a href="https://github.com/Jigarvarma2005"><img src="https://github-profile-trophy.vercel.app/?username=Jigarvarma2005" alt="Jigarvarma2005" /></a> </p>
 
-- 🔭 I’m currently working on [Universal Projects](https://t.me/Universal_Projects)
-
-- 🌱 I’m currently learning **Python, C++ and Bash**
+- 🌱 I’m currently learning **Python, C, C++ and Bash**
 
 - 👯 I’m looking to collaborate on **Any Projects**
 
