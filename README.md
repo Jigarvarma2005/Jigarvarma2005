@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on **Any Projects**.
 - ⚡Open-Source dev and Freelancer.
 - 😆 Fun fact: I use tabs over spaces.
-- 🌱 I’m currently learning flutter.
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/jigarvarma2005) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AuMsvsD7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jigarvarma2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jigarvarma2005) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jigarvarma2005) 
