@@ -18,7 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jigarvarma2005&theme=calm&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jigarvarma2005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jigarvarma2005&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 [![jigarvarma2005](https://stardev.io/developers/Jigarvarma2005/badge/languages/locality.svg)](https://stardev.io/developers/Jigarvarma2005)
 
 ### ✍️ Random Dev Quote
